@@ -1,7 +1,8 @@
-# Getting-Started-in-Electronics
+# Famtronics
 
-A guide to get you started in electronics. There are quite a few resources online, such as sites, guides, channels, etc, but in the abyss of all that information it can be daunting for the beginner like myself. What tools do I really need vs what can wait, what components do I need, what are some good books, what are some good projects to start with? Are all questions I once had, some I still don't know the answer. In this repository, I plan to collect ideas, processes, and just share it with the world as I learn electronics myself, Welcome to the World of Famtronics!
+## Getting-Started-in-Electronics
 
+A guide to get you started in electronics. There are quite a few resources online, such as sites, guides, channels, etc, but in the abyss of all that information it can be daunting for the beginner like myself. What tools do I really need vs what can wait, what components do I need, what are some good books, what are some good projects to start with? Are all questions I once had, some I still don't know the answer. In this repository, I plan to collect ideas, processes, and just share it with the world as my family, and myself learn electronics, Welcome to the World of Famtronics!
 
 ## Discord Community
 

@@ -1,10 +1,7 @@
 # Components
 
-- Breadboard
+
 - Electronic Kit with misc components
-- Jumper wires
-- Hook up wire
-- Matrix PCB boards
 - Resistor Through hole
 - Resistor SMD 0805
 - Capacitor Through hole ceramic
