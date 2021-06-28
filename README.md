@@ -17,9 +17,9 @@ https://discord.gg/qWmVq3NWYA
 - What do I need to get started?
     - [Lab Equipment](./intro/lab-equipment.md)
     - Components
-    - Optional or alternatives
 - Simulators
 - Basic Theory
+- Basic Circuits
 - Building Blocks Circuits
 - A bit more theory
 - More circuits
