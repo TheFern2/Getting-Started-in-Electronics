@@ -15,7 +15,11 @@ https://discord.gg/qWmVq3NWYA
 - Why should you learn electronics?
 - What do I need to get started?
   - [Lab Equipment](./docs/start/lab-equipment.md)
-  - Components
+  - [Components](./docs/start/components.md)
+  - [Youtubers](./docs/start/youtubers.md)
+  - Online Resources
+  - Books
+- Budget Path
 - Simulators
 - Basic Theory
 - Basic Circuits
