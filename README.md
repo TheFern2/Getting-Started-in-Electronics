@@ -10,13 +10,12 @@ I am part of a few large communities in other realms, and I quite like the way d
 
 https://discord.gg/qWmVq3NWYA
 
-
 ## Introductory Topics
 
 - Why should you learn electronics?
 - What do I need to get started?
-    - [Lab Equipment](./intro/lab-equipment.md)
-    - Components
+  - [Lab Equipment](./docs/start/lab-equipment.md)
+  - Components
 - Simulators
 - Basic Theory
 - Basic Circuits
@@ -25,6 +24,6 @@ https://discord.gg/qWmVq3NWYA
 - More circuits
 - Software needed
 - Projects
-    - Soldering Station
-    - Bench Power Supply
-    - Multimeter
+  - Soldering Station
+  - Bench Power Supply
+  - Multimeter
