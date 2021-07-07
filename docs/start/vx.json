@@ -1,0 +1,37 @@
+{
+    "created_time": "2021-07-06T23:06:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-06T23:06:05Z",
+            "id": "0",
+            "modified_time": "2021-07-06T23:06:05Z",
+            "name": "components.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-06T23:06:05Z",
+            "id": "0",
+            "modified_time": "2021-07-06T23:06:05Z",
+            "name": "lab-equipment.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-06T23:06:05Z",
+            "id": "0",
+            "modified_time": "2021-07-06T23:06:05Z",
+            "name": "youtubers.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-07-06T23:06:05Z",
+    "version": "1"
+}

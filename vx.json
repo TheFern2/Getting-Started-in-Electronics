@@ -1,0 +1,34 @@
+{
+    "created_time": "2021-07-06T23:06:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-06T23:06:05Z",
+            "id": "0",
+            "modified_time": "2021-07-06T23:06:05Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-07-06T23:06:05Z",
+            "id": "0",
+            "modified_time": "2021-07-06T23:06:05Z",
+            "name": "todo.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "vx_recycle_bin"
+        },
+        {
+            "name": "docs"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2021-07-06T23:06:05Z",
+    "version": "1"
+}
